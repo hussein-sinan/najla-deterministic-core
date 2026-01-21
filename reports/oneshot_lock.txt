@@ -1,0 +1,1 @@
+Najla-ln-in Golden v1.0 | Mode=OneShot | LAT=6 | N=1024 | PASS(acc,bp) | Date=2026-01-19
