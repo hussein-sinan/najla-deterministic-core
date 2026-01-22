@@ -1,5 +1,8 @@
 # Najla — Deterministic Mathematical Core
-
+> Deterministic math core.  
+> Constant-time. Fixed-point. Integer-only.  
+> No iteration. No drift. No heuristics.  
+> Mathematics closed — engineering only.
 > We are not building a smarter algorithm.  
 > We are building a foundation that algorithms can safely stand on.
 
